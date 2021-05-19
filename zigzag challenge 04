@@ -1,0 +1,4 @@
+num1 = int(input("enter the number"))
+num2 = int(input("enter the number"))
+ans = num1//num2
+print(ans)
