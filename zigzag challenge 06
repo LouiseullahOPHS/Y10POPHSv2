@@ -1,0 +1,9 @@
+name = str(input("what is your name?"))
+
+
+
+
+if name == "Louise":
+    print("you're cool")
+else:
+    print("nice to meet you")
