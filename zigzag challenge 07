@@ -1,0 +1,11 @@
+ans = int(input("how long on average do you spend watching TV each day?"))
+
+
+
+
+if ans <2:
+    print("That shouldnt rot your brain too much ")
+elif ans <4:
+    print("Arent you getting square eyes?")
+else:
+   print("Fresh air beats channel flicking")
