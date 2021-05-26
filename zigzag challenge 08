@@ -1,0 +1,13 @@
+ans = int(input("what marks did you get on your test?"))
+
+
+
+
+if ans >=75:
+    print("A")
+elif ans >=60:
+    print("B")
+elif ans >=35:
+   print("C")
+else:
+    print("D")
