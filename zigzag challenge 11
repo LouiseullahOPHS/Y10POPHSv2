@@ -1,0 +1,5 @@
+import random
+
+weapons = ["rock", "paper", "scissors"]
+selected = random.choice(weapons)
+print(selected)
