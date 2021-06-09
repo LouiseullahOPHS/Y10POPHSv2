@@ -1,0 +1,5 @@
+def help():
+  print("run away gingerbread man")
+
+for i in range(10):
+  help()
